@@ -1,0 +1,4 @@
+#Wed May 04 04:20:56 GST 2022
+base.0=/Users/nyuad/Downloads/W12_XR_UI/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
